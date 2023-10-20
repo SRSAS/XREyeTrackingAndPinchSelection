@@ -66,9 +66,7 @@ If you encounter any problem deploying on the Meta Quest Pro, please follow the 
 4.  Finally, click on **Build and Run** to run the scene on your headset.
 
 ## Adding targets
-### Adding targets
 To add a target, simply add whatever object you want to the scene, place it where you want it, and add the **Selectable** script to it.
-
 
 [^1]:To open the project, open Unity Hub, click on **Open**, then select the repository directory
 [^2]:For troubleshooting connecting the Meta Quest Pro to your computer, see the [official Meta documentation](https://developer.oculus.com/documentation/unity/unity-env-device-setup/)
